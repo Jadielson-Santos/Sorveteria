@@ -6,7 +6,7 @@
 ![Inicio](https://github.com/Jadielson-Santos/img/inicio.png)
 
 ###### PRODUTOS DO SITE
-![Inicio](https://github.com/Jadielson-Santos/img/inicio.png)
+![produtos](https://github.com/Jadielson-Santos/img/inicio.png)
 
 ###### MENU DE ANDROID
-![Inicio](https://github.com/Jadielson-Santos/img/inicio.png)
+![Menu](https://github.com/Jadielson-Santos/img/inicio.png)
