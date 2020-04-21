@@ -1,6 +1,6 @@
 # Projeto De Estudo
 
-#### Pagina de uma sorveteria comum
+#### Pagina de uma sorveteria, Responsiva Hospedada No Github Pages
 
 ###### INICIO DO SITE
 ![Inicio](https://github.com/Jadielson-Santos/Sorveteria/blob/master/img/inicio.png)
